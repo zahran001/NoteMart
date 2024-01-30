@@ -29,7 +29,7 @@ export default {
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
-
+### Sample images of the functioning website: 
 ![Screenshot (25)](https://github.com/zahran001/NoteMart/assets/114562123/6d6bd90f-a4b8-4dff-8325-9d58e3e921d3)
 ![Screenshot (26)](https://github.com/zahran001/NoteMart/assets/114562123/f81c67d4-08a4-4889-9170-d45bc0bd07b3)
 ![Screenshot (27)](https://github.com/zahran001/NoteMart/assets/114562123/19f0b676-91f7-44cf-b5e8-9afab23b4bc4)
